@@ -5,4 +5,6 @@ Software Developer <a href="https://www.linkedin.com/in/elif-gizem-uzgur/">
   <img align="left" alt="Elif' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 
